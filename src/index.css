@@ -15,3 +15,13 @@ code {
 .Header {
   border: 2px solid clack;
 }
+
+.TodoItem__toggle {
+  padding: 1%;
+
+  background-color: whitesmoke;
+  border: 1px solid black;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-left: 10%;
+}
